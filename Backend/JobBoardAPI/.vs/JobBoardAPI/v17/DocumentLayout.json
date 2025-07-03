@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|solutionrelative:jobboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|solutionrelative:jobboardapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE4969-C142-453B-881B-0373EB2D0450}|JobBoardAPI.Repository\\JobBoardAPI.Repository.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE4969-C142-453B-881B-0373EB2D0450}|JobBoardAPI.Repository\\JobBoardAPI.Repository.csproj|solutionrelative:jobboardapi.repository\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0308D1C-345A-4BDE-B218-4C5BAB8F0C12}|JobBoardAPI.Model\\JobBoardAPI.Model.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0308D1C-345A-4BDE-B218-4C5BAB8F0C12}|JobBoardAPI.Model\\JobBoardAPI.Model.csproj|solutionrelative:jobboardapi.model\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0308D1C-345A-4BDE-B218-4C5BAB8F0C12}|JobBoardAPI.Model\\JobBoardAPI.Model.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.model\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0308D1C-345A-4BDE-B218-4C5BAB8F0C12}|JobBoardAPI.Model\\JobBoardAPI.Model.csproj|solutionrelative:jobboardapi.model\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|solutionrelative:jobboardapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|solutionrelative:jobboardapi\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|solutionrelative:jobboardapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi\\restmodels\\applicationrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|solutionrelative:jobboardapi\\restmodels\\applicationrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi\\restmodels\\jobrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|solutionrelative:jobboardapi\\restmodels\\jobrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B931B-5E74-4011-899D-1BE55E051F34}|JobBoardAPI.Service\\JobBoardAPI.Service.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012B931B-5E74-4011-899D-1BE55E051F34}|JobBoardAPI.Service\\JobBoardAPI.Service.csproj|solutionrelative:jobboardapi.service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B931B-5E74-4011-899D-1BE55E051F34}|JobBoardAPI.Service\\JobBoardAPI.Service.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012B931B-5E74-4011-899D-1BE55E051F34}|JobBoardAPI.Service\\JobBoardAPI.Service.csproj|solutionrelative:jobboardapi.service\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|solutionrelative:jobboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|solutionrelative:jobboardapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B931B-5E74-4011-899D-1BE55E051F34}|JobBoardAPI.Service\\JobBoardAPI.Service.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012B931B-5E74-4011-899D-1BE55E051F34}|JobBoardAPI.Service\\JobBoardAPI.Service.csproj|solutionrelative:jobboardapi.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE4969-C142-453B-881B-0373EB2D0450}|JobBoardAPI.Repository\\JobBoardAPI.Repository.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE4969-C142-453B-881B-0373EB2D0450}|JobBoardAPI.Repository\\JobBoardAPI.Repository.csproj|solutionrelative:jobboardapi.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D43A5B-393D-4318-8584-E7C960A6E33D}|JobBoardAPI.Service.Common\\JobBoardAPI.Service.Common.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.service.common\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D43A5B-393D-4318-8584-E7C960A6E33D}|JobBoardAPI.Service.Common\\JobBoardAPI.Service.Common.csproj|solutionrelative:jobboardapi.service.common\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7398EC07-9628-43FB-83F0-59C0C59FD7B0}|JobBoardAPI.Repository.Common\\JobBoardAPI.Repository.Common.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.repository.common\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398EC07-9628-43FB-83F0-59C0C59FD7B0}|JobBoardAPI.Repository.Common\\JobBoardAPI.Repository.Common.csproj|solutionrelative:jobboardapi.repository.common\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7398EC07-9628-43FB-83F0-59C0C59FD7B0}|JobBoardAPI.Repository.Common\\JobBoardAPI.Repository.Common.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.repository.common\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398EC07-9628-43FB-83F0-59C0C59FD7B0}|JobBoardAPI.Repository.Common\\JobBoardAPI.Repository.Common.csproj|solutionrelative:jobboardapi.repository.common\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D43A5B-393D-4318-8584-E7C960A6E33D}|JobBoardAPI.Service.Common\\JobBoardAPI.Service.Common.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.service.common\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D43A5B-393D-4318-8584-E7C960A6E33D}|JobBoardAPI.Service.Common\\JobBoardAPI.Service.Common.csproj|solutionrelative:jobboardapi.service.common\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FE4969-C142-453B-881B-0373EB2D0450}|JobBoardAPI.Repository\\JobBoardAPI.Repository.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.repository\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FE4969-C142-453B-881B-0373EB2D0450}|JobBoardAPI.Repository\\JobBoardAPI.Repository.csproj|solutionrelative:jobboardapi.repository\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0308D1C-345A-4BDE-B218-4C5BAB8F0C12}|JobBoardAPI.Model\\JobBoardAPI.Model.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0308D1C-345A-4BDE-B218-4C5BAB8F0C12}|JobBoardAPI.Model\\JobBoardAPI.Model.csproj|solutionrelative:jobboardapi.model\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D43A5B-393D-4318-8584-E7C960A6E33D}|JobBoardAPI.Service.Common\\JobBoardAPI.Service.Common.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.service.common\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D43A5B-393D-4318-8584-E7C960A6E33D}|JobBoardAPI.Service.Common\\JobBoardAPI.Service.Common.csproj|solutionrelative:jobboardapi.service.common\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7398EC07-9628-43FB-83F0-59C0C59FD7B0}|JobBoardAPI.Repository.Common\\JobBoardAPI.Repository.Common.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.repository.common\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7398EC07-9628-43FB-83F0-59C0C59FD7B0}|JobBoardAPI.Repository.Common\\JobBoardAPI.Repository.Common.csproj|solutionrelative:jobboardapi.repository.common\\ijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi\\restmodels\\userrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04D3A43-88A7-435D-9AFF-081B35B9A682}|JobBoardAPI\\JobBoardAPI.csproj|solutionrelative:jobboardapi\\restmodels\\userrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0308D1C-345A-4BDE-B218-4C5BAB8F0C12}|JobBoardAPI.Model\\JobBoardAPI.Model.csproj|c:\\users\\pc\\documents\\jobboard_webapplication\\backend\\jobboardapi\\jobboardapi.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0308D1C-345A-4BDE-B218-4C5BAB8F0C12}|JobBoardAPI.Model\\JobBoardAPI.Model.csproj|solutionrelative:jobboardapi.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\Controllers\\JobController.cs",
+              "RelativeToolTip": "JobBoardAPI\\Controllers\\JobController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwEYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:27:50.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JobBoardAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAA3wAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:00:49.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "JobBoardAPI\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:44:30.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\MappingProfile.cs",
+              "RelativeToolTip": "JobBoardAPI\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:20:36.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Model\\PagedResult.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Model\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Model\\PagedResult.cs",
+              "RelativeToolTip": "JobBoardAPI.Model\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:04:47.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Model\\Job.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Model\\Job.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Model\\Job.cs",
+              "RelativeToolTip": "JobBoardAPI.Model\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:19:16.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository\\JobRepository.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Repository\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository\\JobRepository.cs",
+              "RelativeToolTip": "JobBoardAPI.Repository\\JobRepository.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAcwNAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:23:17.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationREST.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\RestModels\\ApplicationREST.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI\\RestModels\\ApplicationREST.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\RestModels\\ApplicationREST.cs",
+              "RelativeToolTip": "JobBoardAPI\\RestModels\\ApplicationREST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:36:48.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobREST.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\RestModels\\JobREST.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI\\RestModels\\JobREST.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\RestModels\\JobREST.cs",
+              "RelativeToolTip": "JobBoardAPI\\RestModels\\JobREST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:20:01.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Service\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service\\ApplicationService.cs",
+              "RelativeToolTip": "JobBoardAPI.Service\\ApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:43:28.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service\\JobService.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Service\\JobService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service\\JobService.cs",
+              "RelativeToolTip": "JobBoardAPI.Service\\JobService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:26:38.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service\\UserService.cs",
+              "RelativeToolTip": "JobBoardAPI.Service\\UserService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv2cAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:58:47.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\Program.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\Program.cs",
+              "RelativeToolTip": "JobBoardAPI\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:31:05.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JobBoardAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JobBoardAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T21:05:28.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "JobBoardAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\appsettings.json",
+              "RelativeToolTip": "JobBoardAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T10:03:03.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository\\UserRepository.cs",
+              "RelativeToolTip": "JobBoardAPI.Repository\\UserRepository.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAhwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:42:24.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service.Common\\IUserService.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Service.Common\\IUserService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service.Common\\IUserService.cs",
+              "RelativeToolTip": "JobBoardAPI.Service.Common\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:56:18.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository.Common\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Repository.Common\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository.Common\\IApplicationRepository.cs",
+              "RelativeToolTip": "JobBoardAPI.Repository.Common\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:40:02.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository.Common\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Repository.Common\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository.Common\\IUserRepository.cs",
+              "RelativeToolTip": "JobBoardAPI.Repository.Common\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:32:06.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Repository\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository\\ApplicationRepository.cs",
+              "RelativeToolTip": "JobBoardAPI.Repository\\ApplicationRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwCoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:40:52.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service.Common\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Service.Common\\IApplicationService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service.Common\\IApplicationService.cs",
+              "RelativeToolTip": "JobBoardAPI.Service.Common\\IApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:42:49.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Model\\Application.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Model\\Application.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Model\\Application.cs",
+              "RelativeToolTip": "JobBoardAPI.Model\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:33:59.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service.Common\\IJobService.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Service.Common\\IJobService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Service.Common\\IJobService.cs",
+              "RelativeToolTip": "JobBoardAPI.Service.Common\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:26:06.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository.Common\\IJobRepository.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Repository.Common\\IJobRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Repository.Common\\IJobRepository.cs",
+              "RelativeToolTip": "JobBoardAPI.Repository.Common\\IJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:21:33.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserREST.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\RestModels\\UserREST.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI\\RestModels\\UserREST.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI\\RestModels\\UserREST.cs",
+              "RelativeToolTip": "JobBoardAPI\\RestModels\\UserREST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:01:49.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Model\\User.cs",
+              "RelativeDocumentMoniker": "JobBoardAPI.Model\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\JobBoard_WebApplication\\Backend\\JobBoardAPI\\JobBoardAPI.Model\\User.cs",
+              "RelativeToolTip": "JobBoardAPI.Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:41:57.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

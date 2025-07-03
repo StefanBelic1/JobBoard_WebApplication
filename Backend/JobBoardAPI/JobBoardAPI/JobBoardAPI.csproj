@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="8.3.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="10.0.0" />
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JobBoardAPI.Repository\JobBoardAPI.Repository.csproj" />
+    <ProjectReference Include="..\JobBoardAPI.Service.Common\JobBoardAPI.Service.Common.csproj" />
+    <ProjectReference Include="..\JobBoardAPI.Service\JobBoardAPI.Service.csproj" />
+  </ItemGroup>
+
+</Project>
